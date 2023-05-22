@@ -44,7 +44,7 @@ pdfminer.six==20201018
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.1.0
-pkg_resources==0.0.0
+# pkg_resources==0.0.0
 pluggy==0.13.1
 prompt-toolkit==3.0.10
 ptyprocess==0.7.0
