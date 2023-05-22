@@ -16,7 +16,7 @@ commonmark==0.9.1
 coverage==5.3.1
 cryptography==3.3.1
 cssselect==1.1.0
-dataclasses==0.6
+# dataclasses==0.8
 decorator==4.4.2
 distlib==0.3.1
 execnet==1.7.1
@@ -27,7 +27,7 @@ importlib-metadata==3.3.0
 importlib-resources==4.1.1
 iniconfig==1.1.1
 ipdb==0.13.4
-# ipython>=5.1.0,<7.19.0
+# ipython==7.16.1
 ipython-genutils==0.2.0
 jedi==0.18.0
 mccabe==0.6.1
@@ -69,7 +69,7 @@ sortedcontainers==2.3.0
 soupsieve==2.1
 toml==0.10.2
 tornado==6.1
-# traitlets>=4.3.3,<5.0.0
+# traitlets==4.3.3
 typing-extensions==3.7.4.3
 urllib3==1.26.2
 virtualenv==20.2.2
